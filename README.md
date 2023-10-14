@@ -2,3 +2,4 @@
 shanghai_gov_op
 LO
 starknet
+zksye
